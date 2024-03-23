@@ -1,4 +1,4 @@
-module Robo (clock, reset, head, left, avancar, girar);
+module robo (clock, reset, head, left, avancar, girar);
 
 	input clock, reset, head, left;
 	output reg avancar, girar;
@@ -15,8 +15,8 @@ module Robo (clock, reset, head, left, avancar, girar);
 	end
 	
 	// Primeiro procedimento - DPE
-	always @(negedge clock, negedge reset) begin
-		if (reset == 1'b0) estado <= procurando_muro;
+	always @(negedge clock, posedge reset) begin
+		if (reset == 1'b1) estado <= procurando_muro;
 		
 		else begin
 			case (estado)
