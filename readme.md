@@ -62,7 +62,7 @@ O algoritmo controla o robô da seguinter forma:
 
 ## Preview 📸
 
-### Finite Machine State (FSM)
+### Finite State Machine (FSM)
   ![image](https://github.com/RuanCxrdoso/Projeto-Robo/assets/86266893/c9fd36c3-83a7-4a35-815e-55a09589197d)
 
 ### Simulação
