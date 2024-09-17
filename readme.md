@@ -89,3 +89,9 @@ As seguintes principais ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-Ruan_Cardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ruancardosolinkdin/)](https://www.linkedin.com/in/ruancardosolinkdin/)
 
 [![Gmail Badge](https://img.shields.io/badge/-cardosoruan2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosoruan2001@gmail.com)](mailto:cardosoruan2001@gmail.com)
+
+Edilton de Jesus Damasceno
+Mikelly Correia
+Ruan Cardoso
+
+
